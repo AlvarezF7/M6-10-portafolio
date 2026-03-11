@@ -11,6 +11,18 @@ Proyecto de e-commerce llamado **Go-Art**, donde se pueden listar productos, agr
 - JavaScript
 - Almacenamiento: Archivo JSON (simulando base de datos)
 
+
+## Endpoints API REST
+
+| Método | Ruta                | Descripción                               |
+|--------|-------------------|-------------------------------------------|
+| GET    | `/productos`       | Obtener todos los productos               |
+| POST   | `/producto`        | Crear un producto nuevo                   |
+| PUT    | `/producto/:id`    | Actualizar un producto por ID             |
+| DELETE | `/producto/:id`    | Eliminar un producto por ID               |
+| POST   | `/venta`           | Registrar una venta desde el carrito      |
+| GET    | `/ventas`          | Obtener todas las ventas registradas      |
+
 ## Funcionalidades
 - Listar productos disponibles y su stock.
 - Ver el la cantidad de Stock en tiempo real y avisar al usuario  con un aler de articulo no disponible.
