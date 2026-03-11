@@ -1,0 +1,74 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Croquera Bristol",
+      "precio": 10000,
+      "stock": 10,
+      "img": "/img/croquera-bristol.png"
+    },
+    {
+      "id": 2,
+      "nombre": "Destacadores Básicos",
+      "precio": 4000,
+      "stock": 13,
+      "img": "/img/destacadores.png"
+    },
+    {
+      "id": 3,
+      "nombre": "Set 12 destacadores",
+      "precio": 10000,
+      "stock": 0,
+      "img": "/img/set-12-destacadores.png"
+    },
+    {
+      "id": 4,
+      "nombre": "Set Tiralineas punta 0.5",
+      "precio": 3000,
+      "stock": 12,
+      "img": "/img/tiralinea-colores.png"
+    },
+    {
+      "id": 5,
+      "nombre": "Estuche basico",
+      "precio": 3500,
+      "stock": 12,
+      "img": "/img/estuche-basico.png"
+    },
+    {
+      "id": 6,
+      "nombre": "Set Marcadores Posca",
+      "precio": 3000,
+      "stock": 25,
+      "img": "/img/plumones-posca.png"
+    },
+    {
+      "id": 7,
+      "nombre": "Acuarelas Himi",
+      "precio": 11000,
+      "stock": 5,
+      "img": "/img/acuarelas.png"
+    },
+    {
+      "id": 8,
+      "nombre": "Pinceles para acrilico",
+      "precio": 6000,
+      "stock": 5,
+      "img": "/img/pinceles.png"
+    },
+    {
+      "id": 9,
+      "nombre": "Set Espatulas metalicas",
+      "precio": 5000,
+      "stock": 2,
+      "img": "/img/set-espatulas.png"
+    },
+    {
+      "id": 10,
+      "nombre": "Set 12 Oleos",
+      "precio": 14000,
+      "stock": 6,
+      "img": "/img/set-oleo.png"
+    }
+  ]
+}

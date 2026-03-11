@@ -1,0 +1,19 @@
+{
+  "ventas": [
+    {
+      "id": "f6712f98-aaca-401f-9e0f-79f149649753",
+      "fecha": "2026-03-11T04:33:34.335Z",
+      "total": 6000,
+      "productos": [
+        {
+          "id": 4,
+          "nombre": "Set Tiralineas punta 0.5",
+          "precio": 3000,
+          "stock": 13,
+          "img": "/img/tiralinea-colores.png",
+          "cantidad": 2
+        }
+      ]
+    }
+  ]
+}
