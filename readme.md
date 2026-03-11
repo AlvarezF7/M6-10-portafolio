@@ -39,8 +39,8 @@ Proyecto de e-commerce llamado **Go-Art**, donde se pueden listar productos, agr
 3. Abrir Navegador http://localhost:3000.
 
 ## Nota del autos
-- se tomo como base uno de las tareas anteriores por lo que las vistas de about y contacto no estan activas ya que se priorizo la coneccion entre back y front  y la modularizacion del codigo siguiendo las buenas practicas. 
 
+- Este proyecto se tomó como base de una tarea anterior; por ello, las vistas de About y Contacto no están activas. Se priorizó la conexión entre backend y frontend, así como la modularización del código siguiendo buenas prácticas.
 
 # Autor
 
