@@ -38,7 +38,7 @@ Proyecto de e-commerce llamado **Go-Art**, donde se pueden listar productos, agr
 2. Ejecutar Servidor  **npm start**
 3. Abrir Navegador http://localhost:3000.
 
-## Nota del autos
+## Nota del autor
 
 - Este proyecto se tomó como base de una tarea anterior; por ello, las vistas de About y Contacto no están activas. Se priorizó la conexión entre backend y frontend, así como la modularización del código siguiendo buenas prácticas.
 
