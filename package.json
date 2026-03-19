@@ -2,7 +2,7 @@
   "name": "m6-10-portafolio",
   "version": "1.0.0",
   "description": "- Node.js.\r - Express.\r - Html.\r - CSS.\r - JavaScript.\r - Almacenamiento: Archivo JSON (simulando base de datos)",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node server.js",
     "dev": "nodemon server.js",
